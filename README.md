@@ -1,0 +1,2 @@
+# AviUtlHelper_sources
+AviUtlHelperのソースコード、およびVisualStudioプロジェクト
