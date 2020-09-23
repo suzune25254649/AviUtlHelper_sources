@@ -1,0 +1,9 @@
+LIBRARY GlobalHook
+
+SECTIONS
+    HOOK_SEG READ WRITE SHARED
+
+EXPORTS
+    KeyHookProc @1
+    SetHook @2
+    ResetHook @3
